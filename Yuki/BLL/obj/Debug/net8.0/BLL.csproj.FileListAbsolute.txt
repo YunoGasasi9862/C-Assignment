@@ -1,0 +1,12 @@
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.dll
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.pdb
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.dll
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.pdb
+D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\ref\BLL.dll
