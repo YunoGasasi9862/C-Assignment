@@ -4,7 +4,7 @@ namespace BLL.Models
 {
     public class StudentModel
     {
-        private Student? Student { get; set; }
+        public Student? Student { get; set; }
 
         public int? Id { get => Student?.Id; }
 
