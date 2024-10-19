@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKqXFlbWxlA=",
+  "dgSpecHash": "faMQBsoUd9c=",
   "success": true,
-  "projectFilePath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj",
+  "projectFilePath": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yennefer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Yennefer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

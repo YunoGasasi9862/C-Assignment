@@ -1,83 +1,111 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\MVC\
+build_property.ProjectDir = O:\C# Assignment\Yuki\MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\MVC
+build_property.MSBuildProjectDirectory = O:\C# Assignment\Yuki\MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ControllerGenerator/ApiControllerWithContext.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ControllerGenerator/ApiControllerWithContext.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ControllerGenerator/MvcControllerWithContext.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ControllerGenerator/MvcControllerWithContext.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcTXZjQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/Create.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/Delete.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/Details.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/Edit.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/Empty.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRW1wdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/List.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Templates/ViewGenerator/_ValidationScriptsPartial.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Templates/ViewGenerator/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/Home/Index.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/Home/Privacy.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/Shared/Error.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/_ViewImports.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[O:/C\# Assignment/Yuki/MVC/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[O:/C\# Assignment/Yuki/MVC/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[O:/C\# Assignment/Yuki/MVC/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[O:/C\# Assignment/Yuki/MVC/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[O:/C\# Assignment/Yuki/MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/_ViewStart.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CTIS 7th and 8th Semester/C-Sharp-Assignment/Yuki/MVC/Views/Shared/_Layout.cshtml]
+[O:/C\# Assignment/Yuki/MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e

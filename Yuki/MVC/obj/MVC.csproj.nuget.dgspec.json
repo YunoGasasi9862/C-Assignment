@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\MVC\\MVC.csproj": {}
+    "O:\\C# Assignment\\Yuki\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj": {
+    "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj",
+        "projectUniqueName": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj",
+        "projectPath": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Yennefer\\.nuget\\packages\\",
-        "outputPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\obj\\",
+        "outputPath": "O:\\C# Assignment\\Yuki\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yennefer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\MVC\\MVC.csproj": {
+    "O:\\C# Assignment\\Yuki\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\MVC\\MVC.csproj",
+        "projectUniqueName": "O:\\C# Assignment\\Yuki\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\MVC\\MVC.csproj",
+        "projectPath": "O:\\C# Assignment\\Yuki\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\Yennefer\\.nuget\\packages\\",
-        "outputPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\MVC\\obj\\",
+        "outputPath": "O:\\C# Assignment\\Yuki\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yennefer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj"
+              "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj": {
+                "projectPath": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj"
               }
             }
           }
@@ -125,7 +125,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             }
           },
           "imports": [

@@ -10,3 +10,16 @@ D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.dl
 D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\refint\BLL.dll
 D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.pdb
 D:\CTIS 7th and 8th Semester\C-Sharp-Assignment\Yuki\BLL\obj\Debug\net8.0\ref\BLL.dll
+O:\C# Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.deps.json
+O:\C# Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.dll
+O:\C# Assignment\Yuki\BLL\bin\Debug\net8.0\BLL.pdb
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.dll
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\refint\BLL.dll
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\BLL.pdb
+O:\C# Assignment\Yuki\BLL\obj\Debug\net8.0\ref\BLL.dll

@@ -11,14 +11,32 @@ namespace BLL.Services.Impl
         {
         }
 
-        public Task<Service> Create(Student type)
+        public async Task<Service> Create(Student type)
         {
-            throw new NotImplementedException();
+          bool exist = StudentsDBContext.Students.Any(student => student.Id == type.Id);  
+            
+            if (exist)
+            {
+                return Error("EXISTS!!!");
+            }
+
+            StudentsDBContext.Students.Add(type);
+            await StudentsDBContext.SaveChangesAsync();
+            return Success("Inserted!!");
         }
 
-        public Task<Service> Delete(int id)
+        public async Task<Service> Delete(int id)
         {
-            throw new NotImplementedException();
+            Student student = await StudentsDBContext.Students.Select(student => student).Where(student => student.Id == id).FirstOrDefaultAsync();
+           
+            if (student != null)
+            {
+                StudentsDBContext.Students.Remove(student);
+                await StudentsDBContext.SaveChangesAsync();
+                return Success("Successful");
+            }
+
+            return Error($"Can't Access the Student with id {id}");
         }
 
         public IQueryable<StudentModel> Query()
@@ -26,9 +44,18 @@ namespace BLL.Services.Impl
             return StudentsDBContext.Students.OrderBy(student => student.Name).Select(student => new StudentModel { Student = student });
         }
 
-        public Task<Service> Update(Student type)
+        public async Task<Service> Update(Student type)
         {
-            throw new NotImplementedException();
+            bool exist = StudentsDBContext.Students.Any(student => student.Id == type.Id);
+
+            if (!exist)
+            {
+                return Error("Does not Exist!!!");
+            }
+
+            StudentsDBContext.Students.Update(type);
+            await StudentsDBContext.SaveChangesAsync();
+            return Success("Updated");
         }
     }
 }
