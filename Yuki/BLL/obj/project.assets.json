@@ -2705,11 +2705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj",
+      "projectUniqueName": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "O:\\C# Assignment\\Yuki\\BLL\\BLL.csproj",
+      "projectPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Yennefer\\.nuget\\packages\\",
-      "outputPath": "O:\\C# Assignment\\Yuki\\BLL\\obj\\",
+      "outputPath": "D:\\CTIS 7th and 8th Semester\\C-Sharp-Assignment\\Yuki\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yennefer\\AppData\\Roaming\\NuGet\\NuGet.Config",
